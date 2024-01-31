@@ -1,0 +1,3 @@
+In your today’s lectures slides, two examples are provided to test the gcc and g++ compilers installation
+of your installed Ubuntu OS. Test those files and provide step by step guide with final output for the
+better understanding.
